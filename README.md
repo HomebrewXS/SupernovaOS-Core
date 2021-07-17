@@ -1,7 +1,7 @@
 # SupernovaOS-Core
 
 This is the Core version of SupernovaOS for the PinePhone. Made for developers.
-It includes less end-user apps and it includes developer adds and the Debug menu.
+It includes less end-user apps and it includes developer apps and the Debug menu.
 
 # EntropyUI Debug Menu
 
